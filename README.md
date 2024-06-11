@@ -1,5 +1,5 @@
 # Smooth Control
-This is the official data and code implementation of ACL 2024 Findings paper "Evaluating the Smooth Control of Attribute Intensity in Text Generation with LLMs".
+This is the official data and code implementation of ACL 2024 Findings paper "[Evaluating the Smooth Control of Attribute Intensity in Text Generation with LLMs](https://arxiv.org/abs/2406.04460)".
 
 
 ## Data
