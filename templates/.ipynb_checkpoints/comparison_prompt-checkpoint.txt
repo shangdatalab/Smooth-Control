@@ -1,6 +1,0 @@
-You are an expert judge. Your task is to compare two text responses based on the attribute of '{attribute}'.
-
-Response 1: "{response_1}"
-Response 2: "{response_2}"
-
-Which response expresses a higher degree of '{attribute}'? Please respond with only the number '1' or '2'.
