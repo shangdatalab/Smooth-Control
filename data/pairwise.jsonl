@@ -1,0 +1,9 @@
+{"id": "6a1b40475f894742bb2c8107ad439318", "left_id": "resp_004", "right_id": "resp_002", "winner": 2, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "2", "ts": 1754971075}
+{"id": "45dd213659974670aabb11e0f7db5efa", "left_id": "resp_003", "right_id": "resp_005", "winner": 2, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "2", "ts": 1754971076}
+{"id": "92cdbaa1aaa24cde82df45bdaecd0893", "left_id": "resp_001", "right_id": "resp_006", "winner": 2, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "2", "ts": 1754971076}
+{"id": "a45cf41526a646d7854dea611d05d362", "left_id": "resp_005", "right_id": "resp_006", "winner": 1, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "1", "ts": 1754971077}
+{"id": "fef391796ec8439493406de35d411e58", "left_id": "resp_003", "right_id": "resp_004", "winner": 1, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "1", "ts": 1754971078}
+{"id": "654629d17e454086b0a0a177c54e5749", "left_id": "resp_001", "right_id": "resp_002", "winner": 2, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "2", "ts": 1754971078}
+{"id": "98dd2c1b9bf745f39bb4995cdbcb638e", "left_id": "resp_005", "right_id": "resp_002", "winner": 2, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "2", "ts": 1754971079}
+{"id": "439efc37873d4e62b8e93c7a4d4f8ef4", "left_id": "resp_003", "right_id": "resp_006", "winner": 1, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "1", "ts": 1754971079}
+{"id": "fcf54b95b31a42e4ab7aa5604bc28009", "left_id": "resp_004", "right_id": "resp_001", "winner": 2, "model": "gpt-4o", "temperature": 1.0, "attribute": "Formality", "raw": "2", "ts": 1754971080}

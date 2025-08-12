@@ -1,0 +1,44 @@
+[
+  {
+    "id": "resp_002",
+    "rating": 1790.4998211629686,
+    "wins": 3,
+    "losses": 0,
+    "games": 3
+  },
+  {
+    "id": "resp_005",
+    "rating": 1659.7018001465703,
+    "wins": 2,
+    "losses": 1,
+    "games": 3
+  },
+  {
+    "id": "resp_003",
+    "rating": 1556.1020265385264,
+    "wins": 2,
+    "losses": 1,
+    "games": 3
+  },
+  {
+    "id": "resp_006",
+    "rating": 1424.0659738036675,
+    "wins": 1,
+    "losses": 2,
+    "games": 3
+  },
+  {
+    "id": "resp_001",
+    "rating": 1363.7333525222746,
+    "wins": 1,
+    "losses": 2,
+    "games": 3
+  },
+  {
+    "id": "resp_004",
+    "rating": 1205.8970258259933,
+    "wins": 0,
+    "losses": 3,
+    "games": 3
+  }
+]
